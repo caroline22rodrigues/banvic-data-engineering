@@ -1,6 +1,8 @@
 # banvic-data-engineering
 
-# Estrutura do projeto
+## Objetivo
+
+## Arquitetura
 
 ```text
 banvic-data-platform/
@@ -58,6 +60,16 @@ Testar a execução.<br>
 
 Passo 4 — Entrega 
 README. <br>
+
+## Tecnologias Utilizadas
+
+## Estrutura do Projeto
+
+## Como Executar
+
+## Roadmap
+
+## Autor
 Diagrama. <br>
 Vídeo. <br>
 Revisão.<br>
