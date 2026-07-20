@@ -1,0 +1,16 @@
+# Ferramentas locais
+tools/
+
+# Arquivos do Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
+
+# Arquivos do VS Code (opcional)
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
