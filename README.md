@@ -39,25 +39,25 @@ banvic-data-platform/
 
 # Quadro de tarefas:
 
-Passo 1 — Infraestrutura Criar repositório. 
-Instalar ferramentas. 
-Subir cluster Kind. 
-Provisionar namespace com Terraform. 
-Subir PostgreSQL. 
-Subir Airflow.
+Passo 1 — Infraestrutura Criar repositório. <br>
+Instalar ferramentas. <br>
+Subir cluster Kind. <br>
+Provisionar namespace com Terraform. <br>
+Subir PostgreSQL. <br>
+Subir Airflow.<br>
 
-Passo 2 — Pipeline Configurar Meltano. 
-Configurar Tap e Target. 
-Ingerir as 7 tabelas. 
-Validar os dados.
+Passo 2 — Pipeline Configurar Meltano. <br>
+Configurar Tap e Target. <br>
+Ingerir as 7 tabelas. <br>
+Validar os dados.<br>
 
-Passo 3 — Orquestração Criar DAG. 
-Adicionar Sensor. 
-Configurar retries. 
-Testar a execução.
+Passo 3 — Orquestração Criar DAG. <br>
+Adicionar Sensor. <br>
+Configurar retries. <br>
+Testar a execução.<br>
 
 Passo 4 — Entrega 
-README. 
-Diagrama. 
-Vídeo. 
-Revisão.
+README. <br>
+Diagrama. <br>
+Vídeo. <br>
+Revisão.<br>
