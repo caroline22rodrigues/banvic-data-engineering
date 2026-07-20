@@ -1,6 +1,13 @@
 # banvic-data-engineering
 
 ## Objetivo
+Este projeto tem como objetivo construir uma plataforma de dados moderna utilizando boas práticas de Engenharia de Dados e infraestrutura como código.
+
+A solução será responsável por realizar a ingestão de dados provenientes de diferentes fontes, orquestrar os processos de extração e transformação, armazenar os dados em um banco PostgreSQL e disponibilizar informações confiáveis para análises futuras.
+
+Para tornar o ambiente reproduzível e escalável, toda a infraestrutura será provisionada com Terraform e executada em um cluster Kubernetes local (Kind). A orquestração dos pipelines será realizada pelo Apache Airflow, enquanto o Meltano será utilizado para a ingestão de dados.
+
+Além de atender aos requisitos do desafio técnico da BanVic, o projeto busca demonstrar conhecimentos em arquitetura de dados, automação de infraestrutura, conteinerização, orquestração de workflows e boas práticas de desenvolvimento.
 
 ## Arquitetura
 
